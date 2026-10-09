@@ -1,6 +1,6 @@
 # **MATH175: Data Science Project course**
 
-![Poster](https://github.com/ctanujit/MATH350/blob/main/DSP_Poster.png)
+![Poster](https://github.com/ctanujit/DS-Project/blob/main/DSP_Banner.png)
 
 **Course Name:** Active Science
 
