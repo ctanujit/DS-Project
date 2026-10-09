@@ -1,4 +1,16 @@
-This is the GitHub repository for the **MATH175-Active Science Project course** for L1 Mathematics (Semester 2) students at *Sorbonne University Abu Dhabi*. 
+# **MATH175: Data Science Project course**
+
+![Poster](https://github.com/ctanujit/MATH350/blob/main/DSP_Poster.png)
+
+**Course Name:** Active Science
+
+**Participants:** BSc Mathematics and Data Science L1 students of *Sorbonne University Abu Dhabi* 
+
+**Faculty:** Dr. Tanujit Chakraborty 
+
+**Timeline:** September to December every year |  Sessions: 15 Sessions (3 Credit)
+
+**Email:** tanujit.chakraborty@sorbonne.ae 
 
 In this course (3-credit course), Dr. Tanujit Chakraborty teaches (along with Hands-on-sessions in Python):
 1. Introduction to Data Science
